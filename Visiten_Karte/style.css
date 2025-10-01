@@ -48,7 +48,7 @@ ul {
 .contact-info {
   text-align: center;
   font-size: 25px;
-  color: rgb(78, 11, 11);
+  color: rgb(171, 223, 40);
 }
 
 .email:hover {
@@ -65,5 +65,10 @@ ul {
   color: rgb(221, 218, 19);
   font-size: 25px;
   padding: 0px 20px;
+  cursor: pointer;
+}
+
+.phone:hover {
+  color: rgb(214, 160, 160);
   cursor: pointer;
 }
