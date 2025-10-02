@@ -68,7 +68,7 @@ ul {
   cursor: pointer;
 }
 
-.phone:hover {
+.phone > a:hover {
   color: rgb(214, 160, 160);
   cursor: pointer;
 }
