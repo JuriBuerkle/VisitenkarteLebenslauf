@@ -3,8 +3,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-
-
 }
 
 h1 {
@@ -68,7 +66,7 @@ ul {
   cursor: pointer;
 }
 
-.phone > a:hover {
+.phone>a:hover {
   color: rgb(214, 160, 160);
   cursor: pointer;
 }
